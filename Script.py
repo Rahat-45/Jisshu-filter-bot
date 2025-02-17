@@ -107,12 +107,10 @@ User - {}"""
 🎁 ʀᴇǫᴜᴇꜱᴛ ᴍꜱɢ - <code>{}</code></b>"""  
    
     IMDB_TEMPLATE_TXT = """
-<b>🍿 Title: {title}
+<b>🍿 Title: {title} [{release_date}]
 🗣️ Language : #{languages}
-🎭 Genres: {genres}
-📆 Year: {release_date}
+🎭 Genres: #{genres}
 🌟 Rating: {rating} / 10
-
 <blockquote>✹ Powered By @RM_Movie_Flix</blockquote></b>
 """
 
