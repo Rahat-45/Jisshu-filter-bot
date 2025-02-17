@@ -107,7 +107,7 @@ User - {}"""
 🎁 ʀᴇǫᴜᴇꜱᴛ ᴍꜱɢ - <code>{}</code></b>"""  
    
     IMDB_TEMPLATE_TXT = """
-<b>🍿 Title: {title} [{release_date}]
+<b>🍿 Title: {title} [{year}]
 🗣️ Language : #{languages}
 🎭 Genres: #{genres}
 🌟 Rating: {rating} / 10
