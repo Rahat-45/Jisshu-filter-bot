@@ -108,11 +108,12 @@ User - {}"""
    
     IMDB_TEMPLATE_TXT = """
 <b>🍿 Title: {title}
-🎃 Genres: {genres}
+🗣️ Language : #{languages}
+🎭 Genres: {genres}
 📆 Year: {release_date}
-⭐ Rating: {rating} / 10
+🌟 Rating: {rating} / 10
 
-© Powered By @RM_Movie_Flix</b>
+<blockquote>✹ Powered By @RM_Movie_Flix</blockquote></b>
 """
 
     FILE_CAPTION = """<b>@RM_Movie_Flix {file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/Rm_Movi">𝑹𝑴 𝑴𝒐𝒗𝒊𝒆 𝑭𝒍𝒊𝒙 𝑩𝒂𝒄𝒌𝒖𝒑</a>」</b>"""
